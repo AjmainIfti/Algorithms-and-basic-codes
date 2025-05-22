@@ -2,7 +2,7 @@
 <h3 align="center">Here are some basic CS algorithms which are being used in various sectors</h3>
 
 ## 🤔 What's in this repo :
-<img align="right" height="120" src="https://media1.tenor.com/m/2gfRHLv6GZ8AAAAd/code-coding.gif  />
+<img align="right" height="120" src="https://media1.tenor.com/m/2gfRHLv6GZ8AAAAd/code-coding.gif" />
 
  
 - 📌 Basic algorithms
